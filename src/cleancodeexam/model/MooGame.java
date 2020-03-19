@@ -2,6 +2,7 @@ package cleancodeexam.model;
 
 public class MooGame implements GameHandler {
 
+    //Sets result
     @Override
     public String makeGoal() {
         String goal = "";
